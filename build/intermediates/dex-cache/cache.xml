@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hubert\.android\build-cache\b9c4e7f48bdb13e3dcdcca73847566e817329066\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cf8f6618922da0b0d6d15d7a954c6b2b76f07bb6">
+        <dex dex="C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\build\intermediates\pre-dexed\debug\classes_0d7f2a5584e24184691bbda279ba4d7a842ae712.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\src\\main\\res\\xml\\file_paths.xml"
+    }
+]
