@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int REQUEST_TAKE_PHOTO = 0;
 
     //menu buttons (LU-left-up)
-    private Button button_practise;
+    private Button button_practise;  //simple comment
     private TextView device_status; //connected or disconnected
     private File mFilePhotoTaken;    // File of the photo taken with camera
     private Uri mUriPhotoTaken;     // The URI of photo taken from gallery
