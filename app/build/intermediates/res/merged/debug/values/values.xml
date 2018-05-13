@@ -688,8 +688,8 @@
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="subscription_apiroot">https://westeurope.api.cognitive.microsoft.com/vision/v1.0</string>
-    <string name="subscription_key">c8671cfa6755449d94a6e5633bb22abe</string>
+    <string name="subscription_apiroot">i cyk dwójeczka</string>
+    <string name="subscription_key">Ziomek ładuje pierwszą linijkę tu</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

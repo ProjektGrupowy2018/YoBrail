@@ -1,10 +1,18 @@
 [
     {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\Android\\YoBrail\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\YoBrail\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

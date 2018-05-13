@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\eddeb758fd480749a89d20e533851b43367c8381\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\578c661339932f03b649f438d7129296803e01b7\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\eddeb758fd480749a89d20e533851b43367c8381\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",

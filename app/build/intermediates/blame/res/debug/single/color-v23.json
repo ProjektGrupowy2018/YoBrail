@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\4fc2575c3cec558dd849005d58625d3adebb7a26\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
@@ -12,12 +20,44 @@
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\4fc2575c3cec558dd849005d58625d3adebb7a26\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\4fc2575c3cec558dd849005d58625d3adebb7a26\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\eddeb758fd480749a89d20e533851b43367c8381\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\4fc2575c3cec558dd849005d58625d3adebb7a26\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
@@ -38,6 +78,10 @@
     {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\4fc2575c3cec558dd849005d58625d3adebb7a26\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",

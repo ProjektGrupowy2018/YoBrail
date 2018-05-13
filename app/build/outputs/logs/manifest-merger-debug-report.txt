@@ -1,145 +1,145 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:8:5-65
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:8:22-63
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:8:22-63
 uses-feature#android.hardware.usb.host
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:9:5-10:30
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:9:5-10:30
 	android:required
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:10:5-28
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:10:5-28
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:9:19-59
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:9:19-59
 application
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:12:5-39:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hubert\.android\build-cache\7ff836ffc016adf05a84496e931b22e33f380489\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\Hubert\.android\build-cache\578c661339932f03b649f438d7129296803e01b7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hubert\.android\build-cache\4fc2575c3cec558dd849005d58625d3adebb7a26\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hubert\.android\build-cache\4a3724341563567fb78a561b988db91a6d676115\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hubert\.android\build-cache\5c36b9177d52ea4e0dadaa552a4267667e7154aa\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Hubert\.android\build-cache\0a9d19ad9a0537c151e30d752acd966c55bbae39\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hubert\.android\build-cache\8ad29ce6177e634a51043a20ec6271930105cf5c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hubert\.android\build-cache\dee113293cf06c540b2b44216b9ba8434fb6e0fe\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hubert\.android\build-cache\76e64e454bebcc4a11850f3e9a7a127f3beb090a\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hubert\.android\build-cache\b384ac0c65c5b61adafc2b0f858a6d138debffa3\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hubert\.android\build-cache\fabb1ccb9c01358f44a284734b2cefe5d2d60a96\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hubert\.android\build-cache\9b7f62f65a9bd6252e556d5a86d67600a569a96d\output\AndroidManifest.xml:29:5-20
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:12:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bulus\.android\build-cache\4b92e9105ca4cc1941149eb552f57715cf155479\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Bulus\.android\build-cache\eddeb758fd480749a89d20e533851b43367c8381\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bulus\.android\build-cache\f2e8a8283437fc37892bcd64a96da658fd2ab27d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bulus\.android\build-cache\2688d4c77fb704cb6f9861d1530a453c9186d8a2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bulus\.android\build-cache\12a6d7b6b368be7c2cda0ba312f51200d3c9bab7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Bulus\.android\build-cache\dfe46e7d0c5673695b540b37ee7d636636ececdf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bulus\.android\build-cache\c7c3a32e82ddd2abaf8de1b7b7d416d9b24b773f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bulus\.android\build-cache\a619d4be3602a8f87d0626deb7aa26613fa4bfe8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bulus\.android\build-cache\57854ecc7eaaf1b0cfd244c528ca01d6ada37df2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bulus\.android\build-cache\f0111107a971d3b8d2006036db572b58597e8e63\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bulus\.android\build-cache\95bb128ec117b17dcaca8b41de83a49386c4b75a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bulus\.android\build-cache\de473402a22d5e1c9a241837480e84756c085338\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:15:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:17:9-35
 	android:roundIcon
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:16:9-54
 	android:allowBackup
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:14:9-43
 	android:theme
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:18:9-40
 activity#com.example.bulus.yobrail.MainActivity
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:19:9-27:20
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:label
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:21:13-45
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:21:13-45
 	android:theme
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:22:13-56
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:20:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:23:13-26:29
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.example.bulus.yobrail.SubMenu2
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:28:9-46
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:28:9-46
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:28:19-43
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:28:19-43
 provider#android.support.v4.content.FileProvider
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:30:9-38:20
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:30:9-38:20
 	android:authorities
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:32:13-77
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:32:13-77
 	android:grantUriPermissions
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:34:13-47
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:34:13-47
 	android:exported
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:33:13-37
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:31:13-67
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:31:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:35:13-37:64
+ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:35:13-37:64
 	android:resource
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:37:17-51
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:37:17-51
 	android:name
-		ADDED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml:36:17-67
+		ADDED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml:36:17-67
 uses-sdk
-INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hubert\.android\build-cache\7ff836ffc016adf05a84496e931b22e33f380489\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\Hubert\.android\build-cache\578c661339932f03b649f438d7129296803e01b7\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hubert\.android\build-cache\4fc2575c3cec558dd849005d58625d3adebb7a26\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hubert\.android\build-cache\4a3724341563567fb78a561b988db91a6d676115\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hubert\.android\build-cache\5c36b9177d52ea4e0dadaa552a4267667e7154aa\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Hubert\.android\build-cache\86225da27a9aee902b185aa18160b5ad88a61855\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Hubert\.android\build-cache\0a9d19ad9a0537c151e30d752acd966c55bbae39\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hubert\.android\build-cache\8ad29ce6177e634a51043a20ec6271930105cf5c\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hubert\.android\build-cache\dee113293cf06c540b2b44216b9ba8434fb6e0fe\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hubert\.android\build-cache\76e64e454bebcc4a11850f3e9a7a127f3beb090a\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hubert\.android\build-cache\b384ac0c65c5b61adafc2b0f858a6d138debffa3\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hubert\.android\build-cache\fabb1ccb9c01358f44a284734b2cefe5d2d60a96\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hubert\.android\build-cache\9b7f62f65a9bd6252e556d5a86d67600a569a96d\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.microsoft.projectoxford:vision:1.0.394] C:\Users\Hubert\.android\build-cache\02f4a03a93391540f7e6a3435dec65086874c887\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.felHR85:UsbSerial:4.5] C:\Users\Hubert\.android\build-cache\b9c4e7f48bdb13e3dcdcca73847566e817329066\output\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bulus\.android\build-cache\4b92e9105ca4cc1941149eb552f57715cf155479\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Bulus\.android\build-cache\eddeb758fd480749a89d20e533851b43367c8381\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bulus\.android\build-cache\f2e8a8283437fc37892bcd64a96da658fd2ab27d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bulus\.android\build-cache\2688d4c77fb704cb6f9861d1530a453c9186d8a2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bulus\.android\build-cache\12a6d7b6b368be7c2cda0ba312f51200d3c9bab7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Bulus\.android\build-cache\5e4ec399c77164ecc97b3febddbe96cf35cd7bfa\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Bulus\.android\build-cache\dfe46e7d0c5673695b540b37ee7d636636ececdf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bulus\.android\build-cache\c7c3a32e82ddd2abaf8de1b7b7d416d9b24b773f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bulus\.android\build-cache\a619d4be3602a8f87d0626deb7aa26613fa4bfe8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bulus\.android\build-cache\57854ecc7eaaf1b0cfd244c528ca01d6ada37df2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bulus\.android\build-cache\f0111107a971d3b8d2006036db572b58597e8e63\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bulus\.android\build-cache\95bb128ec117b17dcaca8b41de83a49386c4b75a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bulus\.android\build-cache\de473402a22d5e1c9a241837480e84756c085338\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.microsoft.projectoxford:vision:1.0.394] C:\Users\Bulus\.android\build-cache\3dd33053784c3d4519659873e3136becef466f2b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.felHR85:UsbSerial:4.5] C:\Users\Bulus\.android\build-cache\d40c39b19ec8ffbd6b80f8287234f26ba8073098\output\AndroidManifest.xml:6:5-8:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Hubert\.android\build-cache\578c661339932f03b649f438d7129296803e01b7\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Bulus\.android\build-cache\eddeb758fd480749a89d20e533851b43367c8381\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hubert\AndroidStudioProjects\YoBrail\YoBrail\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\YoBrail\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Hubert\.android\build-cache\578c661339932f03b649f438d7129296803e01b7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hubert\.android\build-cache\4fc2575c3cec558dd849005d58625d3adebb7a26\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hubert\.android\build-cache\4a3724341563567fb78a561b988db91a6d676115\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hubert\.android\build-cache\5c36b9177d52ea4e0dadaa552a4267667e7154aa\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Hubert\.android\build-cache\86225da27a9aee902b185aa18160b5ad88a61855\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Hubert\.android\build-cache\0a9d19ad9a0537c151e30d752acd966c55bbae39\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hubert\.android\build-cache\8ad29ce6177e634a51043a20ec6271930105cf5c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hubert\.android\build-cache\dee113293cf06c540b2b44216b9ba8434fb6e0fe\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hubert\.android\build-cache\76e64e454bebcc4a11850f3e9a7a127f3beb090a\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hubert\.android\build-cache\b384ac0c65c5b61adafc2b0f858a6d138debffa3\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hubert\.android\build-cache\fabb1ccb9c01358f44a284734b2cefe5d2d60a96\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hubert\.android\build-cache\9b7f62f65a9bd6252e556d5a86d67600a569a96d\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\Bulus\.android\build-cache\eddeb758fd480749a89d20e533851b43367c8381\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bulus\.android\build-cache\f2e8a8283437fc37892bcd64a96da658fd2ab27d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bulus\.android\build-cache\2688d4c77fb704cb6f9861d1530a453c9186d8a2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bulus\.android\build-cache\12a6d7b6b368be7c2cda0ba312f51200d3c9bab7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Bulus\.android\build-cache\5e4ec399c77164ecc97b3febddbe96cf35cd7bfa\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Bulus\.android\build-cache\dfe46e7d0c5673695b540b37ee7d636636ececdf\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bulus\.android\build-cache\c7c3a32e82ddd2abaf8de1b7b7d416d9b24b773f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bulus\.android\build-cache\a619d4be3602a8f87d0626deb7aa26613fa4bfe8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bulus\.android\build-cache\57854ecc7eaaf1b0cfd244c528ca01d6ada37df2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bulus\.android\build-cache\f0111107a971d3b8d2006036db572b58597e8e63\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bulus\.android\build-cache\95bb128ec117b17dcaca8b41de83a49386c4b75a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bulus\.android\build-cache\de473402a22d5e1c9a241837480e84756c085338\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Hubert\.android\build-cache\578c661339932f03b649f438d7129296803e01b7\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Bulus\.android\build-cache\eddeb758fd480749a89d20e533851b43367c8381\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Hubert\.android\build-cache\578c661339932f03b649f438d7129296803e01b7\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Bulus\.android\build-cache\eddeb758fd480749a89d20e533851b43367c8381\output\AndroidManifest.xml:26:9-47
 library
-ADDED from [com.microsoft.projectoxford:vision:1.0.394] C:\Users\Hubert\.android\build-cache\02f4a03a93391540f7e6a3435dec65086874c887\output\AndroidManifest.xml:9:5-16
+ADDED from [com.microsoft.projectoxford:vision:1.0.394] C:\Users\Bulus\.android\build-cache\3dd33053784c3d4519659873e3136becef466f2b\output\AndroidManifest.xml:9:5-16

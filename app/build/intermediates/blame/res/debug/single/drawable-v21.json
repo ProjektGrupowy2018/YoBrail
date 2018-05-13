@@ -8,12 +8,32 @@
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\4fc2575c3cec558dd849005d58625d3adebb7a26\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\eddeb758fd480749a89d20e533851b43367c8381\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\4fc2575c3cec558dd849005d58625d3adebb7a26\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\578c661339932f03b649f438d7129296803e01b7\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\eddeb758fd480749a89d20e533851b43367c8381\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\eddeb758fd480749a89d20e533851b43367c8381\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
@@ -24,8 +44,20 @@
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\4fc2575c3cec558dd849005d58625d3adebb7a26\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\eddeb758fd480749a89d20e533851b43367c8381\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\4fc2575c3cec558dd849005d58625d3adebb7a26\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
         "merged": "C:\\Users\\Hubert\\AndroidStudioProjects\\YoBrail\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
