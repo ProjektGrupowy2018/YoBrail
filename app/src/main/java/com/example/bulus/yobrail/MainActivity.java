@@ -13,9 +13,11 @@ import android.hardware.usb.UsbManager;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.IBinder;
+import android.os.SystemClock;
 import android.provider.MediaStore;
 import android.support.v4.content.FileProvider;
 import android.support.v7.app.AppCompatActivity;
@@ -50,16 +52,26 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.Timer;
+import java.util.TimerTask;
 
 public class MainActivity extends AppCompatActivity {
 
     private static final int REQUEST_TAKE_PHOTO = 0;
+    private static final int ASCII_0 = 48;
+    private static final int ASCII_9 = 57;
+    private static final int ASCII_A = 65;
+    private static final int ASCII_Z = 90;
+    private static final int ASCII_a = 97;
+    private static final int ASCII_z = 122;
 
     //menu buttons (LU-left-up)
-    private Button button_practise;  //simple comment
+    private Button button_practise;
     private TextView device_status; //connected or disconnected
     private File mFilePhotoTaken;    // File of the photo taken with camera
     private Uri mUriPhotoTaken;     // The URI of photo taken from gallery
@@ -308,12 +320,51 @@ public class MainActivity extends AppCompatActivity {
                 // Vibrate for 400 milliseconds
                 v.vibrate(400);
 
-                serialPort.write(result.getBytes());
+                char LastSentLetter = 'a';  //Nie wiem co tu będzie lepsze, to zalezy co Maciek ustawi jako stan poczatkowy
+                List<String> ListOfStrings = new ArrayList<String>();
+                for (int i=0; i<result.length(); i++)
+                {
+                    int Time = 1000;
+                    ListOfStrings.add(result.substring(i, i + 1));
+                    String SendingLetter = ListOfStrings.get(i);
+                    if (RecognizeSizeOfTheLetter(SendingLetter.charAt(0)) != "Ignore")
+                    {
+                        if (RecognizeSizeOfTheLetter(SendingLetter.charAt(0)) == RecognizeSizeOfTheLetter(LastSentLetter))
+                        {
+                            SystemClock.sleep(Time);
+                            serialPort.write(SendingLetter.getBytes());   //trochę głupio wygląda, ale chciałbym żeby czekało sekundę lub dwie
+                        } else {
+                            Time = 2000;
+                            SystemClock.sleep(Time);
+                            serialPort.write(SendingLetter.getBytes());
+                        }
+                    }
+                    LastSentLetter = SendingLetter.charAt(0);
+                }
             }
         }
     }
 
-
+    public String RecognizeSizeOfTheLetter(char letter)
+    {
+        int ASCII = (int) letter;
+        if(ASCII >= ASCII_0 && ASCII <= ASCII_9)
+        {
+            return "Number";
+        }
+        else if(ASCII >= ASCII_A && ASCII <= ASCII_Z)
+        {
+            return "LetterUP";
+        }
+        else if(ASCII >= ASCII_a && ASCII <= ASCII_z)
+        {
+            return "LetterLOW";
+        }
+        else
+        {
+            return "Ignore";
+        }
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

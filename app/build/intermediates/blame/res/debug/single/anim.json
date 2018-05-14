@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Hubert\\.android\\build-cache\\578c661339932f03b649f438d7129296803e01b7\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Bulus\\.android\\build-cache\\f2e8a8283437fc37892bcd64a96da658fd2ab27d\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "D:\\Android\\YoBrail\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
